@@ -1,5 +1,7 @@
 # Bootstrapify 4
 
+© copyright 2022 Tameel Chapman
+
 Bootstrapify 4 ~~is~~ _was_ going to be a complete rebuild of the popular Shopify theme framework ready for Bootstrap 4.
 However while in development we realised two things:
 

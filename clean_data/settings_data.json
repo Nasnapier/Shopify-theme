@@ -1,6 +1,7 @@
 {
   "current": {
     "logo_enabled": false,
+
     "logo_max_height": "",
     "container_width": "fixed",
     "header_layout": "header_layout_navbar",

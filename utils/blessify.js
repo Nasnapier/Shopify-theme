@@ -3,6 +3,7 @@ var yaml = require('js-yaml');
 var bless = require('bless');
 var request = require('request');
 
+
 var Blessify = function (config_path, stylesheet_name, output_path, output_filename, callback) {
   console.log('[Blessify] Started');
   this.stylesheet_name = stylesheet_name;
